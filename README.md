@@ -31,12 +31,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suchi1905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Suchi1905/Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Suchi1905/Leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suchi1905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Suchi1905/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Suchi1905/Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/Suchi1905/Leetcode/tree/master/1922-count-good-numbers) |
 ## Hash Table
 |  |
 | ------- |
