@@ -67,4 +67,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Suchi1905/Leetcode/tree/master/0022-generate-parentheses) |
+| [0040-combination-sum-ii](https://github.com/Suchi1905/Leetcode/tree/master/0040-combination-sum-ii) |
+## Array
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/Suchi1905/Leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
