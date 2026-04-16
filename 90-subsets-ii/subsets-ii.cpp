@@ -18,7 +18,6 @@ public:
                 ds.push_back(nums[index]);
                 solve(nums,index+1,ds,results);
                 ds.pop_back();
-
                 while(index+1<nums.size() && nums[index]==nums[index+1])
                 index++;
                 solve(nums,index+1,ds,results);
