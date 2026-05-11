@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Suchi1905/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0138-copy-list-with-random-pointer](https://github.com/Suchi1905/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Suchi1905/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Suchi1905/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suchi1905/Leetcode/tree/master/0022-generate-parentheses) |
 ## Database
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Suchi1905/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suchi1905/Leetcode/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Suchi1905/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/Suchi1905/Leetcode/tree/master/0090-subsets-ii) |
