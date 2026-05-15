@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suchi1905/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Suchi1905/Leetcode/tree/master/0050-powx-n) |
+| [0282-expression-add-operators](https://github.com/Suchi1905/Leetcode/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/Suchi1905/Leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Suchi1905/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Suchi1905/Leetcode/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Suchi1905/Leetcode/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/Suchi1905/Leetcode/tree/master/0282-expression-add-operators) |
 ## Database
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Suchi1905/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Suchi1905/Leetcode/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Suchi1905/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/Suchi1905/Leetcode/tree/master/0282-expression-add-operators) |
 ## Array
 |  |
 | ------- |
