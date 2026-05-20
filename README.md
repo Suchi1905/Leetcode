@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suchi1905/Leetcode/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/Suchi1905/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Suchi1905/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Suchi1905/Leetcode/tree/master/0231-power-of-two) |
 | [0282-expression-add-operators](https://github.com/Suchi1905/Leetcode/tree/master/0282-expression-add-operators) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Suchi1905/Leetcode/tree/master/0029-divide-two-integers) |
 | [0090-subsets-ii](https://github.com/Suchi1905/Leetcode/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/Suchi1905/Leetcode/tree/master/0231-power-of-two) |
 ## Depth-First Search
