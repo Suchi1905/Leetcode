@@ -1,25 +1,22 @@
 class Solution {
 public:
     double myPow(double x, int n) {
-        long long ans=1;
-        if(n==0)
-        return 1;
-        if(n<0){
-            if (n == INT_MIN) {
-                return 1 / (myPow(x, INT_MAX) * x);
+        double ans=1;
+        long long N=n;
+        if(N<0){
+            x=1/x;
+            N=-N;
+        }
+        while(N>=1){
+            if(N%2==0){
+                x=x*x;
+                N=N/2;
             }
-            long long N=n;
-            return 1/myPow(x,-N);
+            else{
+                ans=ans*x;
+                N=N-1;
+            }
         }
-        if(n%2==0){
-            return res(x,n/2);
-        }
-        else{
-            return x*res(x,(n-1)/2);
-        }
-    }
-    double res(double x ,int n){
-        double ans=myPow(x,n);
-        return ans*ans;
+        return ans;
     }
 };
